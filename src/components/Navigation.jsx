@@ -2,7 +2,7 @@ import React from "react";
 
 import styled from "@emotion/styled";
 
-import { PAGES } from "./constants";
+import { PAGES } from "../constants/constants";
 
 import NavigationLink from "./NavigationLink";
 

@@ -4,7 +4,7 @@ import styled from "@emotion/styled";
 import Navigation from "./Navigation";
 import Page from "./Page";
 
-import { PAGES } from "./constants";
+import { PAGES } from "../constants/constants";
 
 const StyledContent = styled.div`
   background-color: white;
